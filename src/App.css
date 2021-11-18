@@ -39,98 +39,90 @@
 
 
 .a,
-.i {
+.h {
   fill: none;
 }
 .b {
-  clip-path: url(#ag);
+  clip-path: url(#af);
 }
-.c,
-.e {
+.c {
   fill: #3f0f00;
-}
-.c,
-.d,
-.h,
-.i,
-.j,
-.m,
-.s,
-.t,
-.u {
-  stroke: #707070;
 }
 .d {
   fill: url(#a);
 }
-.f,
+.e,
+.q,
 .s {
   fill: #fff;
 }
-.f {
+.e {
   font-size: 33px;
   font-family: SegoeUI-Bold, Segoe UI;
   font-weight: 700;
 }
-.g {
+.f {
   font-size: 204px;
 }
-.g,
+.f,
+.j,
 .k,
-.l,
-.t,
-.u {
+.r,
+.s {
   font-family: trailmade, script;
 }
-.h {
+.g {
   fill: url(#b);
 }
-.i {
+.h,
+.i,
+.r {
+  stroke: #707070;
+}
+.h {
   stroke-width: 30px;
 }
-.j {
+.i {
   stroke-width: 29px;
   fill: url(#c);
 }
-.k {
+.j {
   font-size: 117px;
 }
-.l,
-.t {
+.k {
+  stroke: #000;
+}
+.k,
+.r {
   font-size: 63px;
 }
+.l {
+  fill: #131311;
+}
 .m {
-  fill: url(#d);
+  clip-path: url(#d);
 }
 .n {
-  clip-path: url(#e);
-}
-.o {
   stroke: #5f2f39;
-  fill: url(#f);
+  fill: url(#e);
 }
-.o,
-.p {
+.n,
+.o {
   stroke-width: 10px;
 }
-.p {
+.o {
   stroke: #6d323d;
-  fill: url(#g);
+  fill: url(#f);
 }
-.q,
-.r {
-  fill: url(#ad);
+.p {
+  fill: url(#ac);
 }
-.u {
+.s {
   font-size: 115px;
 }
-.v,
-.w {
+.t {
   stroke: none;
 }
-.w {
-  fill: #707070;
-}
-.x {
+.u {
   fill: #f2f2f2;
 }

@@ -1,20 +1,21 @@
-import React from "react";
-import "./App.css";
-import HeroBanner from "./pages/assets/home-img/ComponentTMP_0-image.jpg";
-import AboutMe from "./pages/assets/home-img/ComponentTMP_0-image2.jpg";
-import Profile from "./pages/assets/home-img/ComponentTMP_0-image3.jpg";
-import Project from "./pages/assets/home-img/ComponentTMP_0-image4.jpg";
-import ProjectImage from "./pages/assets/home-img/ComponentTMP_0-image5.jpg";
+/**
+ *
+ * This file was generated with Adobe XD React Exporter
+ * Exporter for Adobe XD is written by: Johannes Pichler <j.pichler@webpixels.at>
+ *
+ **/
 
-const App = () => (
-  <svg viewBox="0 0 1920 2474">
+import React from "react";
+
+const WebComponent = () => (
+  <svg width={1920} height={2474} viewBox="0 0 1920 2474">
     <defs>
       <pattern id="a" width={1} height={1} viewBox="0 134.913 1920 752">
         <image
           preserveAspectRatio="xMidYMid slice"
           width={1920}
           height={1312}
-          xlinkHref={HeroBanner}
+          xlinkHref="ComponentTMP_0-image.jpg"
         />
       </pattern>
       <pattern id="b" width={1} height={1} viewBox="0 426.098 1920 769">
@@ -22,7 +23,7 @@ const App = () => (
           preserveAspectRatio="xMidYMid slice"
           width={1920}
           height={1440}
-          xlinkHref={AboutMe}
+          xlinkHref="ComponentTMP_0-image2.jpg"
         />
       </pattern>
       <pattern
@@ -35,7 +36,7 @@ const App = () => (
         <image
           width={1080}
           height={1620}
-          xlinkHref={Profile}
+          xlinkHref="ComponentTMP_0-image3.jpg"
         />
       </pattern>
       <clipPath id="d">
@@ -51,7 +52,7 @@ const App = () => (
         <image
           width={1080}
           height={721}
-          xlinkHref={Project}
+          xlinkHref="ComponentTMP_0-image4.jpg"
         />
       </pattern>
       <pattern
@@ -61,7 +62,7 @@ const App = () => (
         height="100%"
         viewBox="0 0 400 566"
       >
-        <image width={400} height={566} xlinkHref={ProjectImage} />
+        <image width={400} height={566} xlinkHref="ComponentTMP_0-image5.jpg" />
       </pattern>
       <linearGradient
         id="ac"
@@ -336,4 +337,4 @@ const App = () => (
   </svg>
 );
 
-export default App;
+export default WebComponent;
