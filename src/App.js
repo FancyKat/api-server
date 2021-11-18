@@ -1,6 +1,7 @@
 import React from "react";
 import './App.css';
-import HeroBanner from './pages/assets/home-img/ComponentTMP_0-image.jpg'
+import HeroBanner from './pages/assets/home-img/ComponentTMP_0-image.jpg';
+import AboutMe from 'src/pages/assets/home-img/ComponentTMP_0-image2.jpg';
 
 
 const App = () => (
@@ -19,7 +20,7 @@ const App = () => (
           preserveAspectRatio="xMidYMid slice"
           width={1920}
           height={1440}
-          xlinkHref="ComponentTMP_0-image2.jpg"
+          xlinkHref={AboutMe}
         />
       </pattern>
       <pattern

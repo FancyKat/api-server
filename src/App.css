@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,7 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
 
 .a,
@@ -80,7 +80,7 @@
 .l,
 .t,
 .u {
-  font-family: Trailmade-Regular, Trailmade;
+  font-family: trailmade, script;
 }
 .h {
   fill: url(#b);
