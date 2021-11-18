@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import HeroBanner from "./pages/assets/home-img/ComponentTMP_0-image.jpg";
 import AboutMe from "./pages/assets/home-img/ComponentTMP_0-image2.jpg";
-// import Profile from "./pages/assets/home-img/ComponentTMP_0-image3.jpg";
+import Profile from "./pages/assets/home-img/ComponentTMP_0-image3.jpg";
 import Project from "./pages/assets/home-img/ComponentTMP_0-image4.jpg";
 import ProjectImage from "./pages/assets/home-img/ComponentTMP_0-image5.jpg";
 
