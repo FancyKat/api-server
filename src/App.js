@@ -1,20 +1,17 @@
-
 import React from "react";
+import './App.css';
+import HeroBanner from './pages/assets/home-img/ComponentTMP_0-image.jpg'
+
 
 const App = () => (
   <svg viewBox="0 0 1920 3518">
     <defs>
-      <style>
-        {
-          ".a,.i{fill:none;}.b{clip-path:url(#ag);}.c,.e{fill:#3f0f00;}.c,.d,.h,.i,.j,.m,.s,.t,.u{stroke:#707070;}.d{fill:url(#a);}.f,.s{fill:#fff;}.f{font-size:33px;font-family:SegoeUI-Bold, Segoe UI;font-weight:700;}.g{font-size:204px;}.g,.k,.l,.t,.u{font-family:Trailmade-Regular, Trailmade;}.h{fill:url(#b);}.i{stroke-width:30px;}.j{stroke-width:29px;fill:url(#c);}.k{font-size:117px;}.l,.t{font-size:63px;}.m{fill:url(#d);}.n{clip-path:url(#e);}.o{stroke:#5f2f39;fill:url(#f);}.o,.p{stroke-width:10px;}.p{stroke:#6d323d;fill:url(#g);}.q,.r{fill:url(#ad);}.u{font-size:115px;}.v,.w{stroke:none;}.w{fill:#707070;}.x{fill:#f2f2f2;}"
-        }
-      </style>
       <pattern id="a" width={1} height={1} viewBox="0 134.913 1920 752">
         <image
           preserveAspectRatio="xMidYMid slice"
           width={1920}
           height={1312}
-          xlinkHref="ComponentTMP_0-image.jpg"
+          xlinkHref={HeroBanner}
         />
       </pattern>
       <pattern id="b" width={1} height={1} viewBox="0 426.098 1920 769">
