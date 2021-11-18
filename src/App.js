@@ -1,8 +1,10 @@
 import React from "react";
-import './App.css';
-import HeroBanner from './pages/assets/home-img/ComponentTMP_0-image.jpg';
-import AboutMe from './pages/assets/home-img/ComponentTMP_0-image2.jpg';
-
+import "./App.css";
+import HeroBanner from "./pages/assets/home-img/ComponentTMP_0-image.jpg";
+import AboutMe from "./pages/assets/home-img/ComponentTMP_0-image2.jpg";
+import Profile from "./pages/assets/home-img/ComponentTMP_0-image3.jpg";
+import Project from "./pages/assets/home-img/ComponentTMP_0-image4.jpg";
+import ProjectImage from "./pages/assets/home-img/ComponentTMP_0-image5.jpg";
 
 const App = () => (
   <svg viewBox="0 0 1920 3518">
@@ -30,11 +32,7 @@ const App = () => (
         height="100%"
         viewBox="0 0 1080 1620"
       >
-        <image
-          width={1080}
-          height={1620}
-          xlinkHref="ComponentTMP_0-image3.jpg"
-        />
+        <image width={1080} height={1620} xlinkHref={Profile} />
       </pattern>
       <linearGradient
         id="d"
@@ -57,11 +55,7 @@ const App = () => (
         height="100%"
         viewBox="0 0 1080 721"
       >
-        <image
-          width={1080}
-          height={721}
-          xlinkHref="ComponentTMP_0-image4.jpg"
-        />
+        <image width={1080} height={721} xlinkHref={Project} />
       </pattern>
       <pattern
         id="g"
@@ -70,7 +64,7 @@ const App = () => (
         height="100%"
         viewBox="0 0 400 566"
       >
-        <image width={400} height={566} xlinkHref="ComponentTMP_0-image5.jpg" />
+        <image width={400} height={566} xlinkHref={ProjectImage} />
       </pattern>
       <linearGradient
         id="ad"
