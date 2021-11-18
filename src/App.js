@@ -7,7 +7,7 @@ import Project from "./pages/assets/home-img/ComponentTMP_0-image4.jpg";
 import ProjectImage from "./pages/assets/home-img/ComponentTMP_0-image5.jpg";
 
 const App = () => (
-  <svg viewBox="0 0 1920 3518">
+  <svg viewBox="0 0 1920 2481">
     <defs>
       <pattern id="a" width={1} height={1} viewBox="0 134.913 1920 752">
         <image
@@ -77,11 +77,11 @@ const App = () => (
         <stop offset={1} stopColor="#757476" />
       </linearGradient>
       <clipPath id="ag">
-        <rect width={1920} height={3518} />
+        <rect width={1920} height={2481} />
       </clipPath>
     </defs>
     <g id="af" className="b">
-      <rect className="x" width={1920} height={3518} />
+      <rect className="x" width={1920} height={2481} />
       <g className="c">
         <rect className="v" width={1920} height={75} />
         <rect className="a" x={0.5} y={0.5} width={1919} height={74} />
