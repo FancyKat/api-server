@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import HeroBanner from './pages/assets/home-img/ComponentTMP_0-image.jpg';
-import AboutMe from 'src/pages/assets/home-img/ComponentTMP_0-image2.jpg';
+import AboutMe from './pages/assets/home-img/ComponentTMP_0-image2.jpg';
 
 
 const App = () => (
