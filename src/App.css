@@ -37,13 +37,12 @@
   }
 } */
 
-
 .a,
 .h {
   fill: none;
 }
 .b {
-  clip-path: url(#af);
+  clip-path: url(#ab);
 }
 .c {
   fill: #3f0f00;
@@ -51,9 +50,12 @@
 .d {
   fill: url(#a);
 }
+.af,
+.ah,
+.am,
+.ao,
 .e,
-.q,
-.s {
+.m {
   fill: #fff;
 }
 .e {
@@ -64,19 +66,22 @@
 .f {
   font-size: 204px;
 }
+.af,
+.ah,
+.am,
+.ao,
 .f,
 .j,
 .k,
-.r,
-.s {
-  font-family: trailmade, script;
+.m {
+  font-family: Trailmade-Regular, Trailmade;
 }
 .g {
   fill: url(#b);
 }
+.ag,
 .h,
-.i,
-.r {
+.i {
   stroke: #707070;
 }
 .h {
@@ -92,37 +97,118 @@
 .k {
   stroke: #000;
 }
-.k,
-.r {
+.ao,
+.k {
   font-size: 63px;
 }
 .l {
-  fill: #131311;
+  fill: url(#d);
 }
 .m {
-  clip-path: url(#d);
+  font-size: 115px;
 }
 .n {
-  stroke: #5f2f39;
-  fill: url(#e);
+  clip-path: url(#e);
 }
-.n,
-.o {
-  stroke-width: 10px;
+.aa,
+.ab,
+.ac,
+.o,
+.p,
+.q,
+.r,
+.s,
+.t,
+.u,
+.v,
+.w,
+.x,
+.y,
+.z {
+  stroke: #7185ac;
+  stroke-width: 27px;
 }
 .o {
-  stroke: #6d323d;
   fill: url(#f);
 }
 .p {
-  fill: url(#ac);
+  fill: url(#g);
+}
+.q {
+  fill: url(#h);
+}
+.r {
+  fill: url(#i);
 }
 .s {
-  font-size: 115px;
+  fill: url(#j);
 }
 .t {
-  stroke: none;
+  fill: url(#k);
 }
 .u {
+  fill: url(#l);
+}
+.v {
+  fill: url(#m);
+}
+.w {
+  fill: url(#n);
+}
+.x {
+  fill: url(#o);
+}
+.y {
+  fill: url(#p);
+}
+.z {
+  fill: url(#q);
+}
+.aa {
+  fill: url(#r);
+}
+.ab {
+  fill: url(#s);
+}
+.ac {
+  fill: url(#t);
+}
+.ad {
+  fill: url(#u);
+}
+.ae {
+  fill: url(#v);
+}
+.af {
+  font-size: 120px;
+}
+.ag {
+  fill: url(#w);
+}
+.ah {
+  font-size: 77px;
+}
+.ai {
+  fill: #7185ac;
+}
+.aj {
+  fill: url(#x);
+}
+.ak {
+  fill: url(#y);
+}
+.al {
+  fill: url(#z);
+}
+.am {
+  font-size: 94px;
+}
+.an {
+  fill: #757476;
+}
+.ap {
+  stroke: none;
+}
+.aq {
   fill: #f2f2f2;
 }
