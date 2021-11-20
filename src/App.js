@@ -20,9 +20,9 @@ import Project_13 from "./pages/assets/home-img/ComponentTMP_0-image17.jpg";
 import Project_14 from "./pages/assets/home-img/ComponentTMP_0-image18.jpg";
 import Project_15 from "./pages/assets/home-img/ComponentTMP_0-image19.jpg";
 import Project_16 from "./pages/assets/home-img/ComponentTMP_0-image20.jpg";
-import Project_17 from "./pages/assets/home-img/ComponentTMP_0-image21.jpg";
-import Project_18 from "./pages/assets/home-img/ComponentTMP_0-image22.jpg";
-import Project_19 from "./pages/assets/home-img/ComponentTMP_0-image23.jpg";
+import GitHub from "./pages/assets/home-img/ComponentTMP_0-image21.jpg";
+import LinkedIn from "./pages/assets/home-img/ComponentTMP_0-image22.jpg";
+import Instagram from "./pages/assets/home-img/ComponentTMP_0-image23.jpg";
 
 
 
@@ -284,7 +284,7 @@ const App = () => (
         <image
           width={400}
           height={276}
-          xlinkHref={Project_17}
+          xlinkHref={GitHub}
         />
       </pattern>
       <pattern
@@ -297,7 +297,7 @@ const App = () => (
         <image
           width={400}
           height={300}
-          xlinkHref={Project_18}
+          xlinkHref={LinkedIn}
         />
       </pattern>
       <pattern
@@ -310,7 +310,7 @@ const App = () => (
         <image
           width={400}
           height={300}
-          xlinkHref={Project_19}
+          xlinkHref={Instagram}
         />
       </pattern>
       <clipPath id="ab">
@@ -326,7 +326,7 @@ const App = () => (
         height={752}
         transform="translate(0 75)"
       />
-      <g transform="translate(968)">
+      <g transform="translate(969)">
         <rect className="c" width={198} height={75} />
         <text className="e" transform="translate(52 52)">
           <tspan x={0} y={0}>
@@ -673,27 +673,15 @@ const App = () => (
         height={616}
         transform="translate(0 5456)"
       />
-      <circle
-        className="aj"
-        cx={150}
-        cy={150}
-        r={150}
-        transform="translate(415 5685)"
-      />
-      <circle
-        className="ak"
-        cx={150}
-        cy={150}
-        r={150}
-        transform="translate(1205 5685)"
-      />
-      <circle
-        className="al"
-        cx={150}
-        cy={150}
-        r={150}
-        transform="translate(810 5685)"
-      />
+      <g transform="translate(415 5685)">
+        <circle className="aj" cx={150} cy={150} r={150} />
+      </g>
+      <g transform="translate(1205 5685)">
+        <circle className="ak" cx={150} cy={150} r={150} />
+      </g>
+      <g transform="translate(810 5685)">
+        <circle className="al" cx={150} cy={150} r={150} />
+      </g>
       <text className="am" transform="translate(823 5592)">
         <tspan x={0} y={0}>
           {"Media Links"}
