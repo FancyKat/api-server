@@ -1,13 +1,106 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+.home-button {
+  align-items: flex-end;
+  background-color: var(--bean-);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 441px;
+  min-width: 175px;
+  padding: 9px 50px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.place {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.about-button {
+  align-items: flex-end;
+  background-color: var(--bean-);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 174px;
+  padding: 9px 44px;
+}
+
+.about {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  min-width: 75px;
+  white-space: nowrap;
+}
+
+.sign-up-button {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: 0.5px;
+  min-width: 168px;
+  padding: 9px 36px;
+}
+
+.sign-up {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.login-button {
+  align-items: flex-end;
+  background-color: var(--bean-);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: 0.5px;
+  min-width: 177px;
+  padding: 9px 53px;
+}
+
+.login {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+
+.navigation-bar {
+  align-items: flex-start;
+  background-color: var(--bean-);
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 75px;
+  justify-content: flex-end;
+  min-width: 1366px;
+  position: relative;
+  width: auto;
+}
+
+.logo-setting {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 33px;
+  margin-top: 14.0px;
+  min-height: 46px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+@font-face {
+  font-family: "SegoeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/SegoeUI-Bold") format("truetype");
 }
