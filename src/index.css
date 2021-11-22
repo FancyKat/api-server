@@ -1,106 +1,121 @@
+/* Variables */
 
-.home-button {
-  align-items: flex-end;
-  background-color: var(--bean-);
-  display: flex;
-  height: 64px;
-  justify-content: flex-end;
-  margin-left: 441px;
-  min-width: 175px;
-  padding: 9px 50px;
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --bean-: rgba(63, 15, 0, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --shadow-blue: rgba(113, 133, 172, 1);
+  --sonic-silver: rgba(117, 116, 118, 1);
+  --concrete: rgba(242, 242, 242, 1);
+  --white: rgba(255, 255, 255, 1);
+
+  --font-size-xs: 41px;
+  --font-size-s: 45px;
+  --font-size-xl: 94px;
+  --font-size-xxl: 115px;
+  --font-size-xxxl: 117px;
+  --font-size-xxxxl: 204px;
+  --font-size-s3: 23px;
+  --font-size-m3: 27px;
+  --font-size-s2: 33px;
+  --font-size-m2: 63px;
+  --font-size-l2: 77px;
+
+  --font-family-segoeui-bold: "SegoeUI-Bold";
+  --font-family-trailmade-regular: "Trailmade-Regular";
 }
 
-.place {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 35px;
-  min-width: 73px;
-  white-space: nowrap;
-}
+/* Classes */
 
-.about-button {
-  align-items: flex-end;
-  background-color: var(--bean-);
-  display: flex;
-  height: 64px;
-  justify-content: flex-end;
-  min-width: 174px;
-  padding: 9px 44px;
+.border-30px-dove-gray {
+  border-width: 30px;
+  border-style: solid;
+  border-color: var(--dove-gray);
 }
-
-.about {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 35px;
-  min-width: 75px;
-  white-space: nowrap;
-}
-
-.sign-up-button {
-  align-items: flex-end;
-  background-position: 50% 50%;
-  background-size: cover;
-  display: flex;
-  height: 64px;
-  justify-content: flex-end;
-  margin-top: 0.5px;
-  min-width: 168px;
-  padding: 9px 36px;
-}
-
-.sign-up {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 35px;
-  min-width: 94px;
-  white-space: nowrap;
-}
-
-.login-button {
-  align-items: flex-end;
-  background-color: var(--bean-);
-  display: flex;
-  height: 64px;
-  justify-content: flex-end;
-  margin-top: 0.5px;
-  min-width: 177px;
-  padding: 9px 53px;
-}
-
-.login {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 35px;
-  min-width: 68px;
-  white-space: nowrap;
-}
-
-.navigation-bar {
-  align-items: flex-start;
-  background-color: var(--bean-);
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  height: 75px;
-  justify-content: flex-end;
-  min-width: 1366px;
-  position: relative;
-  width: auto;
-}
-
-.logo-setting {
-  align-self: center;
-  letter-spacing: 0;
-  line-height: 33px;
-  margin-top: 14.0px;
-  min-height: 46px;
-  min-width: 163px;
-  white-space: nowrap;
-}
-
-@font-face {
-  font-family: "SegoeUI-Bold";
+.trailmade-regular-normal-black-204px {
+  color: var(--black);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: 204px;
+  font-weight: 400;
   font-style: normal;
+}
+.segoeui-bold-white-29px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 29px;
   font-weight: 700;
-  src: url("https://fonts.animaapp.com/SegoeUI-Bold") format("truetype");
+  font-style: normal;
+}
+.trailmade-regular-normal-white-77px {
+  color: var(--white);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: var(--font-size-l2);
+  font-weight: 400;
+  font-style: normal;
+}
+.trailmade-regular-normal-white-94px {
+  color: var(--white);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: 94px;
+  font-weight: 400;
+  font-style: normal;
+}
+.border-81px-black {
+  border-width: 81px;
+  border-style: solid;
+  border-color: var(--black);
+}
+.trailmade-regular-normal-white-120px {
+  color: var(--white);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: 120px;
+  font-weight: 400;
+  font-style: normal;
+}
+.trailmade-regular-normal-black-63px {
+  color: var(--black);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  font-style: normal;
+}
+.trailmade-regular-normal-black-117px {
+  color: var(--black);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: 117px;
+  font-weight: 400;
+  font-style: normal;
+}
+.border-5px-dove-gray {
+  border-width: 5px;
+  border-style: solid;
+  border-color: var(--dove-gray);
+}
+.trailmade-regular-normal-white-115px {
+  color: var(--white);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: 115px;
+  font-weight: 400;
+  font-style: normal;
+}
+.trailmade-regular-normal-white-63px {
+  color: var(--white);
+  font-family: var(--font-family-trailmade-regular);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  font-style: normal;
+}
+.segoeui-bold-white-33px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-s2);
+  font-weight: 700;
+  font-style: normal;
+}
+.segoeui-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 25px;
+  font-weight: 700;
+  font-style: normal;
 }
