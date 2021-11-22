@@ -1,0 +1,767 @@
+.home-1280 {
+    background-color: var(--concrete);
+    height: 4905px;
+    overflow: hidden;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .home-1280 .navigation-bar {
+    background-color: var(--bean-);
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+  }
+  
+  .home-1280 .home-button {
+    background-color: var(--bean-);
+    cursor: pointer;
+    height: 69px;
+    left: 497px;
+    position: absolute;
+    top: 3px;
+    width: 186px;
+  }
+  
+  .home-1280 .place {
+    left: 52px;
+    letter-spacing: 0;
+    line-height: 29px;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .about-button {
+    background-color: var(--bean-);
+    height: 69px;
+    left: 683px;
+    position: absolute;
+    top: 3px;
+    width: 186px;
+  }
+  
+  .home-1280 .about {
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 29px;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .sign-up-button {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/619984e686805d8204ccad09/releases/619bdc7871fc5addefa2fa87/img/button-component-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 69px;
+    left: 869px;
+    position: absolute;
+    top: 3px;
+    width: 183px;
+  }
+  
+  .home-1280 .sign-up {
+    left: 38px;
+    letter-spacing: 0;
+    line-height: 29px;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .login-button {
+    background-color: var(--bean-);
+    height: 69px;
+    left: 1052px;
+    position: absolute;
+    top: 3px;
+    width: 187px;
+  }
+  
+  .home-1280 .login {
+    left: 56px;
+    letter-spacing: 0;
+    line-height: 29px;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .logo-setting {
+    left: 48px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .hero-banner {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/619984e686805d8204ccad09/releases/619bdc7871fc5addefa2fa87/img/rectangle-2-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 752px;
+    left: 0;
+    position: absolute;
+    top: 75px;
+    width: 1280px;
+  }
+  
+  .home-1280 .title {
+    left: 218px;
+    letter-spacing: 0;
+    line-height: 204px;
+    position: absolute;
+    top: 225px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .about-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/619984e686805d8204ccad09/releases/619bdc7871fc5addefa2fa87/img/rectangle-3-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 769px;
+    left: 0;
+    position: absolute;
+    top: 827px;
+    width: 1280px;
+  }
+  
+  .home-1280 .overlap-group {
+    height: 346px;
+    left: 120px;
+    position: absolute;
+    top: 119px;
+    width: 260px;
+  }
+  
+  .home-1280 .path-2 {
+    height: 147px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 153px;
+  }
+  
+  .home-1280 .path-3 {
+    height: 147px;
+    left: 107px;
+    object-fit: cover;
+    position: absolute;
+    top: 199px;
+    width: 153px;
+  }
+  
+  .home-1280 .rectangle-6 {
+    border-radius: 51px;
+    height: 269px;
+    left: 41px;
+    object-fit: cover;
+    position: absolute;
+    top: 44px;
+    width: 188px;
+  }
+  
+  .home-1280 .text {
+    height: 395px;
+    left: 442px;
+    position: absolute;
+    top: 134px;
+    width: 696px;
+  }
+  
+  .home-1280 .overlap-group1 {
+    height: 385px;
+    position: relative;
+    top: 12px;
+  }
+  
+  .home-1280 .about-me {
+    color: var(--black);
+    font-family: var(--font-family-trailmade-regular);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 79px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .lorem-ipsum-dolor-si {
+    -webkit-text-stroke: 1px var(--black);
+    color: var(--black);
+    font-family: var(--font-family-trailmade-regular);
+    font-size: var(--font-size-xs2);
+    font-weight: 400;
+    height: 302px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 41px;
+    position: absolute;
+    top: 83px;
+    width: 696px;
+  }
+  
+  .home-1280 .overlap-group4 {
+    height: 2583px;
+    left: 0;
+    position: absolute;
+    top: 1596px;
+    width: 1280px;
+  }
+  
+  .home-1280 .projects {
+    height: 2583px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+  }
+  
+  .home-1280 .overlap-group2 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/619984e686805d8204ccad09/releases/619bdc7871fc5addefa2fa87/img/path-4@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1862px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+  }
+  
+  .home-1280 .projects-1 {
+    left: 526px;
+    letter-spacing: 0;
+    line-height: 115px;
+    position: absolute;
+    top: 159px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .component-14-2 {
+    height: 1440px;
+    left: 283px;
+    position: absolute;
+    top: 292px;
+    width: 715px;
+  }
+  
+  .home-1280 .rectangle-18 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-1 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 256px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-1:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-2 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-2:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-3 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 245px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-3:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-4 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 256px;
+    object-fit: cover;
+    position: absolute;
+    top: 245px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-4:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-5 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 245px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-5:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-6 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 490px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-6:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-7 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 256px;
+    object-fit: cover;
+    position: absolute;
+    top: 490px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-7:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-8 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 490px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-8:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-9 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 735px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-9:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-10 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 256px;
+    object-fit: cover;
+    position: absolute;
+    top: 735px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-10:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-11 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 735px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-11:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-12 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 980px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-12:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-13 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 256px;
+    object-fit: cover;
+    position: absolute;
+    top: 980px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-13:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-14 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 980px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-14:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-15 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1225px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-15:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-16 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 256px;
+    object-fit: cover;
+    position: absolute;
+    top: 1225px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-16:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-18-17 {
+    border-radius: 31px;
+    cursor: pointer;
+    height: 200px;
+    left: 512px;
+    object-fit: cover;
+    position: absolute;
+    top: 1225px;
+    transition: all 0.2s ease;
+    width: 200px;
+  }
+  
+  .home-1280 .rectangle-18-17:hover {
+    transform: scale(1.1);
+  }
+  
+  .home-1280 .rectangle-19 {
+    background: linear-gradient(299.03deg, #e7474c 0.34%, #742426 100%);
+    height: 721px;
+    left: 0;
+    position: absolute;
+    top: 1862px;
+    width: 1280px;
+  }
+  
+  .home-1280 .resume-link {
+    height: 562px;
+    left: 67px;
+    position: absolute;
+    top: 1895px;
+    width: 1146px;
+  }
+  
+  .home-1280 .component-8-3 {
+    height: 400px;
+    left: 746px;
+    position: absolute;
+    top: 122px;
+    width: 400px;
+  }
+  
+  .home-1280 .rectangle-20 {
+    border-radius: 93px;
+    height: 400px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 400px;
+  }
+  
+  .home-1280 .overlap-group3 {
+    height: 544px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 280px;
+  }
+  
+  .home-1280 .resume {
+    left: 21px;
+    letter-spacing: 0;
+    line-height: 120px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .rectangle-21 {
+    border-radius: 89px;
+    height: 406px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 138px;
+    width: 280px;
+  }
+  
+  .home-1280 .text-1 {
+    height: 327px;
+    left: 337px;
+    position: absolute;
+    top: 195px;
+    width: 375px;
+  }
+  
+  .home-1280 .paulo-martin {
+    left: 0;
+    letter-spacing: 0;
+    line-height: 77px;
+    position: absolute;
+    top: 12px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .software-developer {
+    left: 0;
+    letter-spacing: 0;
+    line-height: 77px;
+    position: absolute;
+    top: 238px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .full-stack {
+    left: 0;
+    letter-spacing: 0;
+    line-height: 77px;
+    position: absolute;
+    top: 125px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .media {
+    background-color: var(--shadow-blue);
+    height: 616px;
+    left: 0;
+    position: absolute;
+    top: 4179px;
+    width: 1280px;
+  }
+  
+  .home-1280 .links {
+    height: 300px;
+    left: 95px;
+    position: absolute;
+    top: 216px;
+    width: 1090px;
+  }
+  
+  .home-1280 .github {
+    cursor: pointer;
+    height: 300px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .home-1280 .ellipse {
+    border-radius: 150px;
+    height: 300px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .home-1280 .instagram {
+    height: 300px;
+    left: 790px;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .home-1280 .linked-in {
+    height: 300px;
+    left: 395px;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .home-1280 .media-links {
+    left: 503px;
+    letter-spacing: 0;
+    line-height: 94px;
+    position: absolute;
+    top: 56px;
+    white-space: nowrap;
+  }
+  
+  .home-1280 .footer {
+    background-color: var(--sonic-silver);
+    height: 121px;
+    left: 0;
+    position: absolute;
+    top: 4795px;
+    width: 1280px;
+  }
+  
+  .home-1280 .fancy-kat {
+    left: 569px;
+    letter-spacing: 0;
+    line-height: 63px;
+    position: absolute;
+    top: 30px;
+    white-space: nowrap;
+  }
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  
+  @font-face {
+    font-family: "Trailmade-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/Trailmade-Regular") format("opentype");
+  }
+  @font-face {
+    font-family: "SegoeUI-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/SegoeUI-Bold") format("truetype");
+  }
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
+  
+  .hidden,
+  .hidden * {
+    pointer-events: none;
+    visibility: hidden;
+  }
+  
+  .smart-layers-pointers,
+  .smart-layers-pointers * {
+    pointer-events: auto;
+    visibility: visible;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
